@@ -1,0 +1,17 @@
+.bg-sky {
+    background-color: #03A4ED;
+}
+.rounded-50 {
+    border-radius: 50px;
+}
+.main-nav img {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+}
+.background-header .main-nav .nav {
+    margin-top: 30px !important;
+}
+.header-area.header-sticky {
+    min-height: 100px !important;
+}
