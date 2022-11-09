@@ -1,3 +1,6 @@
+p{
+    padding-top: 20px;
+}
 .bg-sky {
     background-color: #03A4ED;
 }
@@ -14,4 +17,48 @@
 }
 .header-area.header-sticky {
     min-height: 100px !important;
+}
+.email {
+    color: #da241a;
+}
+.about-us .services .item .icon img {
+    max-width: 50px !important;
+}
+.about-us .services .item .icon {
+    background: white;
+    padding: 20px;
+    border-radius: 50%;
+}
+.zigzag {
+    padding-top: 109.6%;
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+}
+.zigzag img {
+    position: absolute;
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.section-heading h4 {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 35px;
+    text-align: center;
+}
+.section-heading a{
+    color: white;
+    text-align: center;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
 }
